@@ -1,6 +1,5 @@
-import logo from './logo.svg';
 import './App.css';
-import { useEffect, useRef, useState } from 'react';
+import { useRef, useState } from 'react';
 
 function App() {
   const [inputMessage, setInputMessage] = useState("");
